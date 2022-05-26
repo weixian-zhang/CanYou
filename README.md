@@ -1,2 +1,2 @@
 # CanYou
-A generic policy-based authorization system to support any Apps and APIs in performing authorization. CanYou's is powered by OPA.
+A generic policy-based authorization engine to support authorization of any Apps and APIs powered by OPA.
