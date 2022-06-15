@@ -1,2 +1,2 @@
 # CanYou
-A generic policy-based authorization engine to support authorization of any Apps and APIs powered by OPA.
+A generic policy-based authorization engine aims to support RBAC + ABAC and integrates with any Web Apps and Web APIs.
